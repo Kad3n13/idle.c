@@ -1,8 +1,13 @@
-Test 1 
-https://youtu.be/-m56RPWUfJk?si=SDYONJksNOHRVL-6
+<!-- Custom YouTube Thumbnails (Test 1 and Test 2) -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=-m56RPWUfJk" target="_blank" rel="noopener noreferrer">
+    <img src="https://ytcards.demolab.com/?id=-m56RPWUfJk&title=Test+1&lang=en&background_color=%230d1117&title_color=%236A0DAD&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5" alt="Test 1 Video" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=GynMSmLK3CA" target="_blank" rel="noopener noreferrer">
+    <img src="https://ytcards.demolab.com/?id=GynMSmLK3CA&title=Test+2&lang=en&background_color=%230d1117&title_color=%237B1FA2&stats_color=%23388E3C&max_title_lines=2&width=250&border_radius=5" alt="Test 2 Video" />
+  </a>
+</p>
 
-Test 2 
-https://youtu.be/GynMSmLK3CA?si=HyWtIWURXR0BS3CE
 
 
 # BitClicks
